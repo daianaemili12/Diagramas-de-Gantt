@@ -1,4 +1,4 @@
-# Gráfico para ver el seguimiento de uno o varios proyectos
+# Diagramas de Gantt para ver el seguimiento de uno o varios proyectos
 
 **Campos del dataset:**
 - Etapa del proyecto.
